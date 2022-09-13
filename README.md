@@ -43,6 +43,7 @@ This software uses the following open source packages:
 
 - [Reactjs](http://reactjs.com/)
 - [Axios](https://github.com/axios/axios)
+- [Cryptocurrency Prices by Market Cap](https://www.coingecko.com/)
 - [Tailwindcss](https://tailwindcss.com/)
 
 ## License
