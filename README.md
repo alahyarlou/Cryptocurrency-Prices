@@ -6,7 +6,7 @@
 <h4 align="center">This program receives an API and shows the price of digital currencies and its changes</h4>
 
 <p align="center">
-  <a href="#">LiveDemo</a> •
+  <a href="https://cryptocurrency-prices-tawny.vercel.app">LiveDemo</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -21,9 +21,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone git remote add origin https://github.com/alahyarlou/Cryptocurrency-Prices.git
+$ git clone https://github.com/alahyarlou/Cryptocurrency-Prices.git
 
-# Go into the repository git remote add origin https://github.com/alahyarlou/Cryptocurrency-Prices.git
+# Go into the repository git remote https://github.com/alahyarlou/Cryptocurrency-Prices.git
 $ cd Cryptocurrency-Prices
 
 # Install dependencies
@@ -35,7 +35,7 @@ $ npm start
 
 ## Download
 
-You can [download]() the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://codeload.github.com/alahyarlou/Cryptocurrency-Prices/zip/refs/heads/main) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## Credits
 
